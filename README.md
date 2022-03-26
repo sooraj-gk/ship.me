@@ -6,10 +6,22 @@ A trial webpage to prctice your coding skills or to re-touch how this websites l
 - Adding New Webpages
 - Adding Responsivenes
 
-Tools Using
+Tools Using:
 
 - VS CODE (code)
 - Figma (Design)
 - Invision (wireframing)
 - Github (Repo's)
+
+Design:
+
+
+
+
+
+Wireframe:
+
+
+
+
 
